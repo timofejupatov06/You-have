@@ -1,0 +1,4 @@
+   } else {
+        attempts--;
+        if (attempts > 0) {
+            console.log(`Incorrect. You have ${attempts} attempts left.`);
